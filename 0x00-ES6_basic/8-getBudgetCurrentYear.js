@@ -13,3 +13,4 @@ export default function getBudgetForCurrentYear(income, gdp, capita) {
 
 	return budget;
 }
+
