@@ -8,5 +8,5 @@ export default async function handleProfileSignup() {
 					console.log(body, firstName, lastName)
 				})
 		})
-		.catch(() => console.log("Signup system offline to the console"))
+		.catch(() => console.log("Signup system offline"))
 }
